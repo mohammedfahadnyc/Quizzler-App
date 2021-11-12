@@ -4,3 +4,7 @@ This is a Java based  quizz app for android. User can choose true or false answe
  Here's a quick demo :
  
 https://imgur.com/V5SrYKa
+
+
+https://user-images.githubusercontent.com/54411378/141596613-b9d01ad9-ae67-4328-923f-1ba91818e804.mov
+
